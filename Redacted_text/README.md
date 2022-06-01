@@ -1,0 +1,1 @@
+Simple program iterating through the words in user's input and replacing a chosen word to "CANDY" instead
