@@ -1,1 +1,1 @@
-SIMPLE PROGRAM ITERATING THROUGH HASH AND ARRAY TO COUNT THE AMOUNT OF TIMES A GIVEN WORD OCCURED IN USER'S INPUT
+Simple program iterating through has and array to count the amount of times a given word occurred in user's input S
